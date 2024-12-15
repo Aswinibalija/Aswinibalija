@@ -5,8 +5,9 @@ Hi there! I'm **Aswini Balija**, a passionate **Python Full-Stack Developer** wi
 ---
 
 ## 🔧 **Technical Skills**
-- **Languages**: Python, JavaScript, HTML, CSS  
+- **Languages**: Python  
 - **Frameworks**: Django  
+- **Web Technologies**: HTML, CSS, JavaScript  
 - **Databases**: SQL  
 - **Cloud**: AWS (Certificate of Participation in AWS Cloud)
 
